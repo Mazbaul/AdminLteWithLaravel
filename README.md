@@ -4,10 +4,10 @@ Here I use [Admin LTE](https://almsaeedstudio.com/preview) Dashboard, [Laravel](
 
 ## Contact
 
-Md Rasel Ahmed__
-Software Engineer__
-Contact No: +880 1521 224958__
-Email: ninja.rasel@gmail.com__
+Md Rasel Ahmed-
+Software Engineer-
+Contact No: +880 1521 224958-
+Email: ninja.rasel@gmail.com-
 Web: [rasel.ninja](http://rasel.ninja)
 
 
