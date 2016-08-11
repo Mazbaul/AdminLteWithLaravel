@@ -1,14 +1,14 @@
 ﻿## Description
 
-Here I use Admin LTE Dashboard, Laravel Framework 5.2 with Laravel Authentication
+Here I use Admin LTE Dashboard, Laravel Framework 5.2 with Laravel Authentication.
 
 ## Contact
 
 Md Rasel Ahmed
+
 Software Engineer
 Contact No: +880 1521 224958
 Email: ninja.rasel@gmail.com
-[MIT license](http://opensource.org/licenses/MIT)
-Web: rasel.ninja
+Web: [rasel.ninja](http://rasel.ninja)
 
 
