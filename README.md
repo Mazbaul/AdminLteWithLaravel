@@ -56,6 +56,7 @@ Step 4:
 php artisan key:generate
 ```
 - If any error occurs like 
+
 > [ErrorException]                                                             
   file_put_contents(/var/www/html/test/AdminLteWithLaravel/bootstrap/cache/se  
   rvices.php): failed to open stream: No such file or directory
