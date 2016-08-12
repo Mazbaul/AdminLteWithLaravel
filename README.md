@@ -1,6 +1,6 @@
 ﻿## Description
 
-Here I use [Admin LTE](https://almsaeedstudio.com/preview) Dashboard, [Laravel](https://laravel.com/) Framework 5.2 with Laravel Authentication.
+Here use [Admin LTE](https://almsaeedstudio.com/preview) Dashboard integrated with [Laravel](https://laravel.com/) Framework 5.2 with Laravel Authentication.
 
 ## Installation Guide
 
@@ -52,6 +52,7 @@ Step 3:
 composer install
 ```
 If composer isn't installed in PC then go to this [link](https://getcomposer.org/) to install composer.
+
 Step 4:
 ```
 php artisan key:generate
