@@ -41,9 +41,9 @@ MAIL_ENCRYPTION=null
 ```
 - Give database credential into .env file like as: 
 ```
-DB_DATABASE=database_name
-DB_USERNAME=database_username
-DB_PASSWORD=database_password
+DB_DATABASE=*database_name*
+DB_USERNAME=*database_username*
+DB_PASSWORD=*database_password*
 ```
 Step 3:
 
@@ -84,6 +84,8 @@ admin@test.com
 *Contact No*: +880 1521 224958
 
 *Email*: ninja.rasel@gmail.com
+
+*Facebook*: [facebook.com/ninja.rasel](https://facebook.com/ninja.rasel)
 
 *Web*: [rasel.ninja](http://rasel.ninja)
 
