@@ -39,7 +39,7 @@ MAIL_USERNAME=null
 MAIL_PASSWORD=null
 MAIL_ENCRYPTION=null
 ```
-- Give database credential into .env file like as: 
+- Give database credential into .env file. Here give an example: 
 ```
 DB_DATABASE=adminlte
 DB_USERNAME=root
@@ -51,6 +51,7 @@ Step 3:
 ```
 composer install
 ```
+If composer isn't installed in PC then go to this [link](https://getcomposer.org/) to install composer.
 Step 4:
 ```
 php artisan key:generate
@@ -61,7 +62,7 @@ php artisan key:generate
   file_put_contents(/var/www/html/test/AdminLteWithLaravel/bootstrap/cache/se  
   rvices.php): failed to open stream: No such file or directory
 
-Then create a directory named **cache** to – AdminLteWithLaravel/bootstrap/ and again run the give command:
+Then create a directory named **cache** to – AdminLteWithLaravel/bootstrap/ and again run the given command:
 ```
 php artisan key:generate
 ```
