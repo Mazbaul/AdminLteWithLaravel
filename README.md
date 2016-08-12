@@ -63,10 +63,7 @@ php artisan key:generate
   file_put_contents(/var/www/html/test/AdminLteWithLaravel/bootstrap/cache/se  
   rvices.php): failed to open stream: No such file or directory
 
-Then create a directory named **cache** to – AdminLteWithLaravel/bootstrap/ and again run the given command:
-```
-php artisan key:generate
-```
+Then create a directory named **cache** to – AdminLteWithLaravel/bootstrap/ and again run that given command.
  
 Step 5:
 ```
