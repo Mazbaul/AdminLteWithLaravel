@@ -10,7 +10,7 @@ git clone https://github.com/NinjaRasel/AdminLteWithLaravel.git
 ```
 Step 2:
 
-*Go to project directory and create .env file like as:
+- Go to project directory and create .env file like as:
 ```
 APP_ENV=local
 APP_DEBUG=true
@@ -39,7 +39,7 @@ MAIL_USERNAME=null
 MAIL_PASSWORD=null
 MAIL_ENCRYPTION=null
 ```
-*Give database credential into .env file like as: 
+- Give database credential into .env file like as: 
 ```
 DB_DATABASE=database_name
 DB_USERNAME=database_username
@@ -47,7 +47,7 @@ DB_PASSWORD=database_password
 ```
 Step 3:
 
-*Go to project directory and open CMD (for Windows users) or terminal (for Linux users) and run the given command:
+- Go to project directory and open CMD (for Windows users) or terminal (for Linux users) and run the given command:
 ```
 composer install
 ```
@@ -67,7 +67,13 @@ Step 7:
 ```
 php artisan serve
 ```
-Now run from browser – http://localhost:8000
+- Now run from browser – http://localhost:8000
+- Login Credential : 
+```
+admin@test.com
+123456
+```
+
 
 ## Contact
 
